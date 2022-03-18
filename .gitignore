@@ -31,3 +31,8 @@ unit_test_results
 # Other generated files
 *.swp
 packaging/setup_cfg.py
+
+# Thesis
+/thesis/data/
+/thesis/datasets/
+/thesis/models/
